@@ -1,0 +1,54 @@
+.encabezado {
+  background-color: gray;
+  border-radius: 5px;
+  border: 2px solid black;
+  height: 50px;
+  width: 99%;
+}
+
+.cuerpo {
+  float: left;
+}
+
+.section1 {
+  background-color: green;
+  width: 50vw;
+  height: 101vh;
+  margin-top: 5px;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+.derecha {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.div1 {
+  background-color: brown;
+  height: 30vh;
+  width: 97%;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.div2 {
+  background-color: gold;
+  height: 30vh;
+  width: 97%;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.div3 {
+  background-color: maroon;
+  height: 40vh;
+  width: 47%;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.div4 {
+  background-color: mediumorchid;
+  height: 40vh;
+  width: 47%;
+  border-radius: 5px;
+  margin-top: 5px;
+}
